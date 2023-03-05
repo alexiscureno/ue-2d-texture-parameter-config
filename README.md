@@ -1,1 +1,1 @@
-# ue-2dtexture-parameter-config
+# ue-2d-texture-parameter-config
